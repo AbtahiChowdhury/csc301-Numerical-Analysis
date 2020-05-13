@@ -1,4 +1,4 @@
-# csc221: Numerical Analysis
+# csc301: Numerical Analysis
 Introduction to numerical analysis using python.
 
 ## Projects
